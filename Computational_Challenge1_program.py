@@ -1,7 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[17]:
 
 
 """
@@ -33,25 +29,7 @@ plt.show()
 # In[18]:
 
 
-"""
-Created on Tues Sep  1 13:45:06 2020
-
- 
-
-@Group 3: Youssaf & Rashedur
-
- 
-
-problem: Use the Poisson distribution as a candidate distribution to generate samples from the bino-
-mial distribution
-
- 
-
-Prof: Josic & Prof:Stewart
-
- 
-
-"""
+############################################################################################
 
 import numpy as np
 import scipy.stats as sps
@@ -109,27 +87,7 @@ for i in range(len(lamda)):
 
 
 # In[19]:
-
-
-"""
-Created on Tues Sep  1 13:45:06 2020
-
- 
-
-@Group 3: Youssaf & Rashedur
-
- 
-
-problem: Use the Poisson distribution as a candidate distribution to generate samples from the bino-
-mial distribution
-
- 
-
-Prof: Josic & Prof: Stewart
-
- 
-
-"""
+###################################################################
         
 import numpy as np
 import scipy.stats as sps
@@ -191,25 +149,7 @@ for i in range(len(lamda)):
 # In[20]:
 
 
-"""
-Created on Tues Sep  1 13:45:06 2020
-
- 
-
-@Group 3: Youssaf & Rashedur
-
- 
-
-problem: Use the Poisson distribution as a candidate distribution to generate samples from the bino-
-mial distribution
-
- 
-
-Prof: Josic & Prof: Stewart
-
- 
-
-"""
+#############################################################
         
 import numpy as np
 import scipy.stats as sps
@@ -271,25 +211,7 @@ for i in range(len(lamda)):
 # In[21]:
 
 
-"""
-Created on Tues Sep  1 13:45:06 2020
-
- 
-
-@Group 3: Youssaf & Rashedur
-
- 
-
-problem: Use the Poisson distribution as a candidate distribution to generate samples from the bino-
-mial distribution
-
- 
-
-Prof: Josic & Prof: Stewart
-
- 
-
-"""
+######################################################################
         
 import numpy as np
 import scipy.stats as sps
